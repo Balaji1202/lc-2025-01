@@ -1,4 +1,4 @@
-//https://leetcode.com/problems/count-vowel-strings-in-ranges/
+// https://leetcode.com/problems/count-vowel-strings-in-ranges/
 
 class Solution {
     public static boolean isVowel(char c) {
