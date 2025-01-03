@@ -1,4 +1,4 @@
-// https://leetcode.com/submissions/detail/1493873694/
+// https://leetcode.com/problems/maximum-score-after-splitting-a-string
 
 class Solution {
     public static HashMap<Character, Integer> getCharMap(String s) {
